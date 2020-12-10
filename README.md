@@ -1,4 +1,4 @@
-### Hi there 👋
+![](images/octocat_w_laptop_IMG_4471.PNG)
 
 <!--
 **mishaberrien/mishaberrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
