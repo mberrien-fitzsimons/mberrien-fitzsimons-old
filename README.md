@@ -1,4 +1,4 @@
-![misha berrien as octocat](images/octocat_w_laptop_IMG_4471.PNG)
+<img src="images/octocat_w_laptop_IMG_4471.PNG" width="100>
 
 <!--
 **mishaberrien/mishaberrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![misha berrien as octocat](images/octocat_w_laptop_IMG_4471.PNG)
 -->
