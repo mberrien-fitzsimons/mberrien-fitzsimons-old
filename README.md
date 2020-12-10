@@ -1,4 +1,4 @@
-<img src="images/octocat_w_laptop_IMG_4471.PNG" width="100">
+<img src="images/octocat_w_laptop_IMG_4471.PNG" width="400">
 
 <!--
 **mishaberrien/mishaberrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
